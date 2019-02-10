@@ -1,6 +1,6 @@
 ---
 title: Fourth Post
-date: '2019-02-7'
+date: '2019-02-07'
 ---
  
  This week our group split into two teams, Frontend and Backend (which also includes DB). I started working on our development environment. We are using docker
