@@ -1,6 +1,8 @@
 ---
 title: Eighth Post
-date: '2019-03-6'
+date: '2019-03-14'
 ---
 
-I finished the all of UI facade on Sunday. The ui can now read and write from the db. I'm on vacation the rest of the week.
+I finished the all of UI facade last week. This week I reviewed code and worked on a new table for the db to store counts. 
+
+The new table will use the SessionID as a primary key, and have rows for beginning, middle, end.
