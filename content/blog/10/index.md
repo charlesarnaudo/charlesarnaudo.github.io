@@ -1,5 +1,5 @@
 ---
-title: 10 Post
+title: Tenth Post
 date: '2019-03-25'
 ---
 
